@@ -21,7 +21,7 @@ public:
 
     void printNumber()
     {
-        cout << "Your number is " << a << " + " << b << "i" << endl;
+        cout << "Your number is this " << a << " + " << b << "i" << endl;
     }
 };
 int main()
