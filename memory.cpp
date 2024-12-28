@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//adding some comments
+
 class Shop
 {
     int itemId[100];
